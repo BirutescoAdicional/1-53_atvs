@@ -30,7 +30,7 @@ public class atv2 {
                     System.out.println("Hoje é Sábado!");
                     break;
                 default:
-                    System.out.println("Hoje é %&¨%$*((&¨&##@");
+                    System.out.println("[ERRO] Número da SEMANA INEXISTENTE.");
                     break;
                 }
             System.out.print("Deseja continuar? [S/N]:");
