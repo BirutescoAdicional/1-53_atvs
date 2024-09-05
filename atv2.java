@@ -1,7 +1,7 @@
 import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class Atv2 {
+public class atv2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         char escolha = 's';
